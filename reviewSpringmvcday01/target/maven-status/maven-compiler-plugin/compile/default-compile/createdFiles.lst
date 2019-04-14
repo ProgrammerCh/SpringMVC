@@ -1,0 +1,7 @@
+ch\practice\Interceptor\MyInterceptor.class
+ch\practice\controller\JsonController.class
+ch\practice\exception\MyHandlerExceptionResolver.class
+ch\practice\pojo\UserVO.class
+ch\practice\pojo\User.class
+ch\practice\controller\HelloController.class
+ch\practice\Interceptor\MyInterceptor2.class
